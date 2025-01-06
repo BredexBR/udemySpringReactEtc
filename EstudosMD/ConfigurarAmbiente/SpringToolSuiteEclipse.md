@@ -1,6 +1,6 @@
 # Instalação do Eclipse via Spring Tools Suite
 ## 1. Instalar o eclipse
-Clique [aqui](https://spring.io/tools) para acessar o site de instalação do eclise.
+Clique [aqui](https://spring.io/tools) para acessar o site de instalação do eclipse.
 
 ## 2. Mova o arquivo para a pasta /opt
 ```bash
@@ -28,13 +28,13 @@ sudo ./SpringToolSuite4
 ```
 
 ## Opcional
-Caso queira criar um arquivo executavel no desktop:
+Caso queira criar um arquivo executável no desktop:
 
 ```bash
 sudo vi /usr/share/applications/stsLauncher.desktop
 ```
 
-Insira dentro desse arquivo com a versao correta do Spring Tool: (aperte insert no teclado).
+Insira dentro desse arquivo com a versão correta do Spring Tool: (aperte insert no teclado).
 
 ```bash
 [Desktop Entry]
@@ -48,4 +48,4 @@ Type=Application
 Categories=Development;IDE;Java;
 ```
 
-E por fim acesse o executavel no menu de aplicativos (Spring Tool Suite).
+E por fim acesse o executável no menu de aplicativos (Spring Tool Suite).
