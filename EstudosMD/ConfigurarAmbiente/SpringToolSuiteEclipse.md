@@ -7,22 +7,22 @@ Clique [aqui](https://spring.io/tools) para acessar o site de instalação do ec
 sudo mv spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-linux.gtk.x86_64.tar.gz /opt
 ```
 
-## 2. Abra a pasta opt
+## 3. Abra a pasta opt
 ```bash
 cd /opt/
 ```
 
-## 3. Descompactar o arquivo
+## 4. Descompactar o arquivo
 ```bash
 sudo tar zxvf spring-tool-suite-4-4.27.0.RELEASE-e4.34.0-linux.gtk.x86_64.tar.gz
 ```
 
-## 4. Abra a pasta descompactada 
+## 5. Abra a pasta descompactada 
 ```bash
 cd sts-4.27.0.RELEASE/
 ```
 
-## 5. Execute o arquivo 
+## 6. Execute o arquivo 
 ```bash
 sudo ./SpringToolSuite4
 ```
